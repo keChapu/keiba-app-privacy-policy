@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>プライバシーポリシー | 当たり馬券コレクション</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 24px 20px 80px;
+    line-height: 1.8;
+    color: #222;
+    background: #fff;
+  }
+  h1 {
+    font-size: 1.5em;
+    border-bottom: 2px solid #2f6fed;
+    padding-bottom: 12px;
+  }
+  h2 {
+    font-size: 1.15em;
+    margin-top: 2em;
+    color: #2f6fed;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px 10px;
+    text-align: left;
+    font-size: 0.95em;
+  }
+  th {
+    background: #f7f7f7;
+  }
+  a {
+    color: #2f6fed;
+  }
+  .date {
+    color: #888;
+    font-size: 0.9em;
+    margin-top: 2.5em;
+  }
+</style>
+</head>
+<body>
+
+<h1>プライバシーポリシー</h1>
+
+<p>本アプリ「当たり馬券コレクション」(以下「本アプリ」といいます)は、個人開発者(以下「開発者」といいます)が提供します。本ポリシーは、本アプリが取得する情報とその取り扱いについて説明します。</p>
+
+<h2>1. 取得する情報</h2>
+<p>本アプリでは、以下の情報を取得します。</p>
+
+<h3>(1) アカウント情報</h3>
+<p>メールアドレス、パスワード(認証のため。パスワードは開発者に閲覧できない形でGoogle Firebaseにより安全に管理されます)</p>
+
+<h3>(2) 馬券記録データ</h3>
+<p>馬券をカメラで撮影した際にOCR(文字認識)で読み取った情報(馬券の種類、購入金額、払戻金額、読み取ったテキスト全文)、記録の作成日時、ニックネーム・応援している馬や競馬場などユーザーが任意で入力するプロフィール情報。これらはユーザーのアカウントに紐付けてGoogle Firebase(Firestore)のサーバーに保存され、複数端末間での同期に利用されます。</p>
+
+<h3>(3) 馬券の写真そのもの</h3>
+<p>撮影した馬券の画像ファイルは、<strong>お使いの端末内にのみ保存</strong>され、開発者のサーバーには送信・保存されません。ただし、文字を読み取るための処理として、撮影直後に画像を後述の外部サービス(Google Cloud Vision API)へ一時的に送信します。</p>
+
+<h3>(4) 広告関連の識別情報</h3>
+<p>本アプリでは広告表示のためにGoogle AdMobを利用しており、広告の配信・効果測定のために広告識別子(IDFA等)を使用する場合があります。iOS端末では、初回起動時に表示される「トラッキングの許可」ダイアログでの同意状況に応じて取り扱いが変わります。同意しない場合でも、パーソナライズされない広告が表示されます。</p>
+
+<h2>2. 情報の利用目的</h2>
+<ul>
+  <li>馬券記録の保存・複数端末間での同期・表示</li>
+  <li>OCRによる馬券情報の自動読み取り</li>
+  <li>広告の配信</li>
+  <li>お問い合わせへの対応</li>
+</ul>
+
+<h2>3. 外部サービスへの提供</h2>
+<p>本アプリは、以下の外部サービスを利用しており、各サービスの提供者にデータが送信されます。詳細は各社のプライバシーポリシーをご確認ください。</p>
+
+<table>
+  <tr><th>サービス</th><th>用途</th><th>送信される情報</th></tr>
+  <tr><td>Google Firebase(Authentication / Firestore)</td><td>ログイン認証・データ保存</td><td>メールアドレス、馬券記録データ、プロフィール情報</td></tr>
+  <tr><td>Google Cloud Vision API</td><td>馬券画像の文字認識(OCR)</td><td>撮影した馬券の画像(処理後は保持されません)</td></tr>
+  <tr><td>Google AdMob</td><td>広告配信</td><td>広告識別子(IDFA等)、端末情報</td></tr>
+</table>
+
+<p><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google プライバシーポリシー</a></p>
+
+<h2>4. データの保存期間・削除</h2>
+<ul>
+  <li>馬券記録・プロフィール情報は、ユーザーがアカウントを利用している間保存されます。</li>
+  <li>アプリ内の設定画面から、記録の個別削除・全件削除・アカウント自体の削除がいつでも可能です。アカウントを削除すると、サーバー上の関連データも削除されます。</li>
+  <li>端末内に保存されている馬券の写真は、対応する記録を削除すると同時に端末から削除されます。</li>
+</ul>
+
+<h2>5. 第三者提供</h2>
+<p>法令に基づく場合を除き、取得した情報を上記「3. 外部サービスへの提供」に記載のサービス提供者以外の第三者に提供することはありません。</p>
+
+<h2>6. お子様の利用について</h2>
+<p>本アプリは競馬の馬券に関する記録を扱うものであり、13歳未満のお子様の利用は想定していません。</p>
+
+<h2>7. プライバシーポリシーの変更</h2>
+<p>本ポリシーの内容は、法令の変更やアプリの機能追加に伴い、予告なく変更されることがあります。変更後の内容は本ページに掲載した時点で効力を生じるものとします。</p>
+
+<h2>8. お問い合わせ</h2>
+<p>本アプリの個人情報の取り扱いに関するお問い合わせは、以下のメールアドレスまでご連絡ください。</p>
+<p>staceysanch24@gmail.com</p>
+
+<p class="date">制定日: 2026年7月14日</p>
+
+</body>
+</html>
