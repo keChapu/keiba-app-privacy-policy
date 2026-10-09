@@ -32,3 +32,5 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [Claude Motion:チャットだけで動画(MP4)作成](2026-10-09-claude-motion-video.md) | #Claude #動画 #Motion |
 | 2026-10-09 | [OpenPOI API:全国施設検索API(無料・MCP対応)](2026-10-09-openpoi-api.md) | #API #位置情報 #MCP |
 | 2026-10-09 | [文字画像APNGメーカー:透過アニメ文字素材](2026-10-09-text-apng-maker.md) | #素材 #APNG #動画 |
+| 2026-10-09 | [マルチモデル振り分けプロンプト(Jev)と使える原則](2026-10-09-model-routing-orchestration-prompt.md) | #プロンプト #コスト削減 #品質管理 |
+| 2026-10-09 | [OpenAI dots:常時稼働エージェント](2026-10-09-openai-dots-agent.md) | #AIエージェント #OpenAI #権限設計 |
