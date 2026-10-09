@@ -40,3 +40,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [人気のAIエージェント系リポジトリ5選](2026-10-09-five-ai-agent-repos.md) | #AIエージェント #MCP #並列化 |
 | 2026-10-09 | [UIデザインの参考サイトとガイドライン](2026-10-09-ui-reference-sites.md) | #デザイン #UI #HIG |
 | 2026-10-09 | [UI微調整は調整用スライダーUIをAIに作らせる](2026-10-09-tuning-panel-ui-adjustment.md) | #UI #ワークフロー #プロンプト |
+| 2026-10-09 | [Fantasy RPG Icon pack:ドット絵アイコン集](2026-10-09-franuka-rpg-icon-pack.md) | #素材 #アイコン #ドット絵 |
