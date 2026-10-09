@@ -30,3 +30,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [vphone:Mac上の仮想iPhone(脱獄済み・研究用)](2026-10-09-vphone-virtual-iphone.md) | #iOS #仮想化 #セキュリティ |
 | 2026-10-09 | [SKILL.mdでショート動画を量産(Remotion)](2026-10-09-skill-md-short-video-factory.md) | #AIエージェント #SKILL.md #動画 |
 | 2026-10-09 | [Claude Motion:チャットだけで動画(MP4)作成](2026-10-09-claude-motion-video.md) | #Claude #動画 #Motion |
+| 2026-10-09 | [OpenPOI API:全国施設検索API(無料・MCP対応)](2026-10-09-openpoi-api.md) | #API #位置情報 #MCP |
