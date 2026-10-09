@@ -38,3 +38,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [Claude製ガチャ演出の分析(演出の文法)](2026-10-09-gacha-animation-artifact.md) | #演出 #アニメーション #UI |
 | 2026-10-09 | [DESIGN.mdライブラリ:有名プロダクトのデザインをAI用に](2026-10-09-design-md-library.md) | #デザイン #DESIGN.md #UI |
 | 2026-10-09 | [人気のAIエージェント系リポジトリ5選](2026-10-09-five-ai-agent-repos.md) | #AIエージェント #MCP #並列化 |
+| 2026-10-09 | [UIデザインの参考サイトとガイドライン](2026-10-09-ui-reference-sites.md) | #デザイン #UI #HIG |
