@@ -35,3 +35,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [マルチモデル振り分けプロンプト(Jev)と使える原則](2026-10-09-model-routing-orchestration-prompt.md) | #プロンプト #コスト削減 #品質管理 |
 | 2026-10-09 | [OpenAI dots:常時稼働エージェント](2026-10-09-openai-dots-agent.md) | #AIエージェント #OpenAI #権限設計 |
 | 2026-10-09 | [Claude×アフィの朝30分ルーティン(プロンプト設計)](2026-10-09-claude-amazon-affiliate-routine.md) | #コンテンツ #プロンプト #習慣化 |
+| 2026-10-09 | [Claude製ガチャ演出の分析(演出の文法)](2026-10-09-gacha-animation-artifact.md) | #演出 #アニメーション #UI |
