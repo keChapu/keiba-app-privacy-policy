@@ -22,3 +22,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 日付 | トピック | タグ |
 | --- | --- | --- |
 | 2026-10-09 | [App Store Connect API + AIで画像・更新文を自動化](2026-10-09-asc-api-ai-automation.md) | #自動化 #ASO #AppStoreConnect |
+| 2026-10-09 | [TouchSynthesis:iPhone単体のAI画面操作](2026-10-09-iphone-touchsynthesis-agent.md) | #自動化 #テスト #エージェント |
