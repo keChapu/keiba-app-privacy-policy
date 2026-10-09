@@ -29,3 +29,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [App Storeの新ヘッダー画像・検索結果アセット(iOS 27)](2026-10-09-app-store-header-search-assets.md) | #ASO #ストア画像 #CVR |
 | 2026-10-09 | [vphone:Mac上の仮想iPhone(脱獄済み・研究用)](2026-10-09-vphone-virtual-iphone.md) | #iOS #仮想化 #セキュリティ |
 | 2026-10-09 | [SKILL.mdでショート動画を量産(Remotion)](2026-10-09-skill-md-short-video-factory.md) | #AIエージェント #SKILL.md #動画 |
+| 2026-10-09 | [Claude Motion:チャットだけで動画(MP4)作成](2026-10-09-claude-motion-video.md) | #Claude #動画 #Motion |
