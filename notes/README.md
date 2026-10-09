@@ -27,3 +27,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [ArtCraft:Adobe代替のOSSアプリ群(開発初期)](2026-10-09-artcraft-open-source-adobe.md) | #デザイン #OSS #MCP |
 | 2026-10-09 | [Compositor:無料OSSのPhotoshop代替(AIで編集可)](2026-10-09-compositor-photoshop-alternative.md) | #画像編集 #OSS #ストア画像 |
 | 2026-10-09 | [App Storeの新ヘッダー画像・検索結果アセット(iOS 27)](2026-10-09-app-store-header-search-assets.md) | #ASO #ストア画像 #CVR |
+| 2026-10-09 | [vphone:Mac上の仮想iPhone(脱獄済み・研究用)](2026-10-09-vphone-virtual-iphone.md) | #iOS #仮想化 #セキュリティ |
