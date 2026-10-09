@@ -52,3 +52,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [phone-harness:Claude CodeでiPhone実機を操作](2026-10-09-phone-harness-iphone-control.md) | #自動化 #テスト #iOS |
 | 2026-10-09 | [ペイウォールの改善例(旧→新デザイン)と審査の注意](2026-10-09-paywall-redesign-example.md) | #ペイウォール #課金 #UI |
 | 2026-10-09 | [voicebox:ローカルの声クローン・TTS(MCP対応)](2026-10-09-voicebox-voice-cloning.md) | #音声合成 #MCP #ClaudeCode |
+| 2026-10-09 | [自律型AIエージェントを組むOSS 10選](2026-10-09-ten-agent-framework-repos.md) | #AIエージェント #フレームワーク #評価 |
