@@ -34,3 +34,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [文字画像APNGメーカー:透過アニメ文字素材](2026-10-09-text-apng-maker.md) | #素材 #APNG #動画 |
 | 2026-10-09 | [マルチモデル振り分けプロンプト(Jev)と使える原則](2026-10-09-model-routing-orchestration-prompt.md) | #プロンプト #コスト削減 #品質管理 |
 | 2026-10-09 | [OpenAI dots:常時稼働エージェント](2026-10-09-openai-dots-agent.md) | #AIエージェント #OpenAI #権限設計 |
+| 2026-10-09 | [Claude×アフィの朝30分ルーティン(プロンプト設計)](2026-10-09-claude-amazon-affiliate-routine.md) | #コンテンツ #プロンプト #習慣化 |
