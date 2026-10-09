@@ -25,3 +25,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [TouchSynthesis:iPhone単体のAI画面操作](2026-10-09-iphone-touchsynthesis-agent.md) | #自動化 #テスト #エージェント |
 | 2026-10-09 | [Progate「作品」でSwiftUIアプリをAI生成(未確認)](2026-10-09-progate-works-swiftui.md) | #SwiftUI #AI生成 #プロトタイピング |
 | 2026-10-09 | [ArtCraft:Adobe代替のOSSアプリ群(開発初期)](2026-10-09-artcraft-open-source-adobe.md) | #デザイン #OSS #MCP |
+| 2026-10-09 | [Compositor:無料OSSのPhotoshop代替(AIで編集可)](2026-10-09-compositor-photoshop-alternative.md) | #画像編集 #OSS #ストア画像 |
