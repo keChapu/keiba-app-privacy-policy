@@ -47,3 +47,4 @@ Twitter(X)などで見つけた、アプリ開発に役立つ情報をまとめ�
 | 2026-10-09 | [直進なのに回って見える玉の錯視(Tusi couple)](2026-10-09-straight-line-circular-illusion.md) | #アニメーション #錯視 #演出 |
 | 2026-10-09 | [YouTube「ドット絵の学校」おすすめ動画](2026-10-09-pixel-art-school-youtube.md) | #ドット絵 #学習 |
 | 2026-10-09 | [honoka-tts:ウィスパー/無声音のASMR音声合成(未確認)](2026-10-09-honoka-tts-whisper.md) | #音声合成 #TTS #動画 |
+| 2026-10-09 | [Claude Code:指揮は上位モデル、雑用はHaikuに委譲](2026-10-09-claude-code-haiku-errand-delegation.md) | #ClaudeCode #サブエージェント #Hooks |
