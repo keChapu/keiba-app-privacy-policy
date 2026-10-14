@@ -79,3 +79,17 @@
   - 他社の商標や「有馬記念」などのレース名は、キーワード割り当て・画像内の表記の可否を審査ガイドラインで確認する。
   - 「当たる」系の表現は避ける。
   - CPP をキーワードに割り当てられる条件・上限は、App Store Connect で要確認(投稿ベースの情報)。
+
+## 追記(2026-10-14):公式ドキュメントで仕様を確認
+
+- Apple の公式ヘルプ「Creative assets specifications」で、サイズを確認できた。
+  - ヘッダー: 21:9(3840×1646)
+  - 検索結果: 3:2(1920×1280〜3840×2560)
+  - 両方に使えるユニバーサル: 16:9(5244×2950、PNG)
+- 「Manage your App Store assets」によると:
+  - Asset Library から、単体で、またはアプリのバージョンと一緒に審査に出せる。
+  - 承認済みのアセットは、再提出なしで差し替えられる。
+- 対象は iOS 27 / iPadOS 27 以降。
+- 参照:
+  - https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications/
+  - https://developer.apple.com/help/app-store-connect/manage-app-information/manage-your-app-store-assets/
